@@ -8,7 +8,7 @@
     "timeout": 120,
     "method": "aes-256-cfb",
     "protocol": "auth_sha1_compatible",
-    "protocol_param": "",
+    "protocol_param": "1000",
     "obfs": "tls1.0_session_auth_compatible",
     "obfs_param": "",
     "redirect": "",
